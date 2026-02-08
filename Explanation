@@ -1,0 +1,1 @@
+The FizzBuzz problem is a classic programming task that requires printing numbers from 1 to 100 with specific replacements based on divisibility. The core logic uses a for loop to iterate through numbers, and if/else if statements to check for multiples of 3, 5, or both.
